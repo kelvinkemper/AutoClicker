@@ -1,2 +1,2 @@
 # AutoClicker
-Simple program where the user sets click amount by location of mouse cursor
+A simple program where the user sets click amounts by location of mouse cursor
