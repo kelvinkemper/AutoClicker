@@ -1,2 +1,5 @@
 # AutoClicker
-A simple program where the user sets click amounts by location of mouse cursor
+-clicks where mouse cursor is
+-set how many clicks you want
+-set time inbetween clicks
+-left mouse click only
